@@ -1,0 +1,19 @@
+- For MySQL Server we use workbench or Jammed Server
+**********************************************
+-Then choose 5.5m installer
+- To download the MySQl
+https://dev.mysql.com/downloads/file/?id=513229
+**********************************************
+- MySQL Server
+- MySQL Workbench
+- MySQL Shell
+**********************************************
+Schema = Database
+**********************************************
+Inside database table
+Inside user
+Select rows limit 1000
+**********************************************
+Drop table = Delete table
+Alter table = Edit table
+**********************************************

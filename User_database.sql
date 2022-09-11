@@ -1,0 +1,1 @@
+SELECT * FROM user_table.product_table;

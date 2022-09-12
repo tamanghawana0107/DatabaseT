@@ -17,3 +17,13 @@ Select rows limit 1000
 Drop table = Delete table
 Alter table = Edit table
 **********************************************
+https://gist.github.com/
+**********************************************
+set as default schema and it highlights the schema
+**************************************************
+click the lightining item
+then refresh it shows the table in the table option
+***************************************************
+
+
+

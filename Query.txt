@@ -1,0 +1,9 @@
+SELECT = Selects the required table or what you want to select
+FROM = From which topic you want to Select
+* = It shows the entire data
+*********************************
+For condition
+*********************************
+WHERE = it used for the condition
+AND = used as AND operator
+. = to select other tables

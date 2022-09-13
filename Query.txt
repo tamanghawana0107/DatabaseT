@@ -7,3 +7,15 @@ For condition
 WHERE = it used for the condition
 AND = used as AND operator
 . = to select other tables
+## = comment
+********************************
+ASC = Ascending
+DESC = Descending
+ORDER BY = keeps in the required order
+LIKE = Givws data according to the letter or number given
+ON = Condition (Same as WHERE)
+INNER JOIN = joins two tables
+*******************************************
+Insertion
+*******************************************
+INSERT INTO = inserts in the existing columns

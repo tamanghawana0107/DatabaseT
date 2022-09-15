@@ -19,3 +19,7 @@ INNER JOIN = joins two tables
 Insertion
 *******************************************
 INSERT INTO = inserts in the existing columns
+VALUES = values for the column
+UPDATE = updates the table
+DELETE = deletes the table
+**********************************************
